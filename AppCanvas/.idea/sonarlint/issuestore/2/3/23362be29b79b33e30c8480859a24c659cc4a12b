@@ -1,0 +1,31 @@
+
+U	java:S106["9Replace this use of System.out or System.err by a logger.(µáËÖ8 Ò­…¡.
+N
+java:S1612@",Replace this lambda with a method reference.(šï²ıûÿÿÿÿ8 Ò­…¡.
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(¢¨¿/8 Ò­…¡.
+e
+java:S1192W"IDefine a constant instead of duplicating this literal "Gender: " 3 times.(‘×ç-8 Ò­…¡.
+I
+java:S1612[",Replace this lambda with a method reference.(µáËÖ8 Ò­…¡.
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(µáËÖ8 Ò­…¡.
+T	java:S106W"9Replace this use of System.out or System.err by a logger.(‘×ç-8 Ò­…¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅŒ‘·ùÿÿÿÿ8 Ò­…¡.
+I
+java:S1612t",Replace this lambda with a method reference.(µáËÖ8 Ò­…¡.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(çışûÿÿÿÿ8 Ò­…¡.
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(¯É¢‰8 Ò­…¡.
+U	java:S106š"9Replace this use of System.out or System.err by a logger.(Æ·Û8 Ò­…¡.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(¼½Ë™øÿÿÿÿ8 Ò­…¡.
+N
+java:S1612E",Replace this lambda with a method reference.(÷•–Ìşÿÿÿÿ8 Ò­…¡.
+T	java:S106q"9Replace this use of System.out or System.err by a logger.(‘×ç-8 Ò­…¡.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(¢Ç¹İøÿÿÿÿ8 Ò­…¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Èè·áüÿÿÿÿ8 Ò­…¡.
+N
+java:S1612",Replace this lambda with a method reference.(ˆŒúÙûÿÿÿÿ8 Ò­…¡.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ï’ã˜ÿÿÿÿÿ8 Ò­…¡.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(µÜÑœ8 Ò­…¡.
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(Ï˜ÂÉ8 Ò­…¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8 Ò­…¡.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ß×âõıÿÿÿÿ8 Ò­…¡.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(÷•–Ìşÿÿÿÿ8 Ò­…¡.

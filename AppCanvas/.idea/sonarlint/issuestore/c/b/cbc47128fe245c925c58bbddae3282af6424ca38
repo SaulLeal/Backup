@@ -1,0 +1,11 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(çž‰
+8þúÍµŸ.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(•¤ûÕ8þúÍµŸ.
+k
+java:S2272'"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(þÿøë8þúÍµŸ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯šÙÝþÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8þúÍµŸ.
+S
+java:S11971"8Move the array designator from the variable to the type.(˜ƒ|8þúÍµŸ.

@@ -1,0 +1,8 @@
+
+F
+java:S1659"$Declare "m_blue" on a separate line.(ŽŠÞ×ýÿÿÿÿ8¿šäë™.
+r	java:S116"QRename this field "m_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽŠÞ×ýÿÿÿÿ8¿šäë™.
+G
+java:S1659"%Declare "m_green" on a separate line.(ŽŠÞ×ýÿÿÿÿ8¿šäë™.
+s	java:S116"RRename this field "m_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽŠÞ×ýÿÿÿÿ8¿šäë™.
+q	java:S116"PRename this field "m_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽŠÞ×ýÿÿÿÿ8¿šäë™.

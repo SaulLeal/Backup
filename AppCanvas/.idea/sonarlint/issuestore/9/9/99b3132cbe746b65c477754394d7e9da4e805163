@@ -1,0 +1,8 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(•ƒÓùÿÿÿÿ8ÅÏ˜š.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’µ–€
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ê·ô“8ÅÏ˜š.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÆı£8ÅÏ˜š.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹ıº™8ÅÏ˜š.

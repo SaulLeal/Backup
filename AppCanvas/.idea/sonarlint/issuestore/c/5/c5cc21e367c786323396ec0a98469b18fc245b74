@@ -1,0 +1,46 @@
+
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(­íó8û‘‹¤ .
+O
+java:S1612É",Replace this lambda with a method reference.(Àşé€ùÿÿÿÿ8£×« .
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û‘‹¤ .
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û‘‹¤ .
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(Àşé€ùÿÿÿÿ8û‘‹¤ .
+J
+java:S1612­",Replace this lambda with a method reference.( ØÅÈ8£×« .
+[	java:S106»"9Replace this use of System.out or System.err by a logger.(Àşé€ùÿÿÿÿ8‚šÎ™¥.
+O
+java:S1612È",Replace this lambda with a method reference.(±è¦Ïÿÿÿÿÿ8£×« .
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ó°Ùî8ÃÚÛ« .
+F
+java:S1604‚"(Make this anonymous inner class a lambda(‹®²ß8û‘‹¤ .
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(ÈºÈÇ8û‘‹¤ .
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8üÜ« .
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û‘‹¤ .
+[	java:S106ß"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8¢°¤¥.
+O
+java:S1612»",Replace this lambda with a method reference.(Àşé€ùÿÿÿÿ8è¼Ø™¥.
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û‘‹¤ .
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(¶Ÿ¨ğüÿÿÿÿ8û‘‹¤ .
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û‘‹¤ .
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û‘‹¤ .
+J
+java:S1612Õ",Replace this lambda with a method reference.(ÁìÙÆ8‰ÚÚ™¥.
+’
+java:S1192p"pDefine a constant instead of duplicating this literal "Persons who are eligible for Selective Service " 9 times.(ĞÍÔÇûÿÿÿÿ8û‘‹¤ .
+I
+java:S1612Ô",Replace this lambda with a method reference.(òŠ°'8€óÙ™¥.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(ĞÍÔÇûÿÿÿÿ8û‘‹¤ .
+U	java:S106š"9Replace this use of System.out or System.err by a logger.(İ›«8û‘‹¤ .
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(üˆÿ¼8û‘‹¤ .
+V	java:S106Ï"9Replace this use of System.out or System.err by a logger.(’Š™³8û‘‹¤ .
+V	java:S106Á"9Replace this use of System.out or System.err by a logger.(ËÄ×8û‘‹¤ .
+O
+java:S1612º",Replace this lambda with a method reference.(±è¦Ïÿÿÿÿÿ8£×« .
+V	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ÁìÙÆ8§ÇÚ™¥.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ñ°ÕÆüÿÿÿÿ8û‘‹¤ .
+[	java:S106Ú"9Replace this use of System.out or System.err by a logger.(Ô‚´»ıÿÿÿÿ8ÇŠ¥.
+[	java:S106×"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‘ƒ©¥.
+[	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û‘‹¤ .
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û‘‹¤ .
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(·éª›8û‘‹¤ .
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û‘‹¤ .

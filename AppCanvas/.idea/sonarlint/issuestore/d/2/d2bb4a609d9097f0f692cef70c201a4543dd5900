@@ -1,0 +1,14 @@
+
+Q
+java:S1611"/Remove the parentheses around the "y" parameter(´™¿ùÿÿÿÿ8Îü¿¨ .
+o
+java:S1104"MMake x a static final constant or non-public and provide accessors if needed.(øŞè•ùÿÿÿÿ8Îü¿¨ .
+o
+java:S1104"MMake x a static final constant or non-public and provide accessors if needed.(¤äÍ‚şÿÿÿÿ8Îü¿¨ .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·˜Ü¿8„•Ç« .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì¦œÕşÿÿÿÿ8Îü¿¨ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜²îúÿÿÿÿ8Îü¿¨ .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áŞĞ8Îü¿¨ .
+s
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(´™¿ùÿÿÿÿ8Îü¿¨ .
+X	java:S125"<This block of commented-out lines of code should be removed.(ğ‘÷À8¤”¸« .

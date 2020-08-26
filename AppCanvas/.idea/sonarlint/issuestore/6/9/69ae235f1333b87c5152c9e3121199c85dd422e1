@@ -1,0 +1,14 @@
+
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ğ¨°‰.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÔĞşÿÿÿÿ8êÁÛò›.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹èŸ”ıÿÿÿÿ8æ‘—‰.
+E
+java:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÑÂ°‰.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦ïå8êÁÛò›.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÈÑº³8ÑÂ°‰.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø‚¡¾ùÿÿÿÿ8êÁÛò›.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ğ¨°‰.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«»²Òşÿÿÿÿ8æ‘—‰.

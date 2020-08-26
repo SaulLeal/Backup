@@ -1,0 +1,10 @@
+
+?
+java:S1659""Declare "yPos" on a separate line.(ÁÕ‚Œ8…ßÚë™.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¹ïø8…ßÚë™.
+E
+java:S1068"(Remove this unused "xPos" private field.(ÁÕ‚Œ8…ßÚë™.
+A
+java:S1659"$Declare "radius" on a separate line.(ÁÕ‚Œ8…ßÚë™.
+E
+java:S1068"(Remove this unused "yPos" private field.(ÁÕ‚Œ8…ßÚë™.

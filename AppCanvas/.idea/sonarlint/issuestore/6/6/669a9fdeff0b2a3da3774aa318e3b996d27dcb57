@@ -1,0 +1,28 @@
+
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÂÂŒ¥.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(¢²¿Õ8ÌÆ•¥.
+Y
+java:S1854K"CRemove this useless assignment to local variable "rosterSetLambda".(åº–Š
+J
+java:S1481K"4Remove this unused "rosterSetLambda" local variable.(åº–Š
+I
+java:S1612K",Replace this lambda with a method reference.(åº–Š8ç–€¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‡İ¾ƒ¡.
+p
+java:S1602,"SRemove useless curly braces around statement and then remove useless return keyword(œ‘¹8•‹Âœ¥.
+I
+java:S16123",Replace this lambda with a method reference.(ó‡ñ³8›Úÿ .
+g
+java:S1854S"ERemove this useless assignment to local variable "rosterSetWithType".(ãÇ÷Èüÿÿÿÿ8‡Ü¡€¡.
+N
+java:S1612X",Replace this lambda with a method reference.(ˆŒúÙûÿÿÿÿ8şŞìƒ¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Öä€Ğûÿÿÿÿ8ï¤†¥.
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(Şµï’øÿÿÿÿ
+p
+java:S1602K"SRemove useless curly braces around statement and then remove useless return keyword(åº–Š8ç–€¡.
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(»÷÷Ùúÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(»÷÷Ùúÿÿÿÿ
+X
+java:S1481S"6Remove this unused "rosterSetWithType" local variable.(ãÇ÷Èüÿÿÿÿ8Ò¡¢€¡.
+]	java:S125`"<This block of commented-out lines of code should be removed.(Õñ©ùÿÿÿÿ8Ø¦ÇÇ¥.
+X	java:S125c"<This block of commented-out lines of code should be removed.(Ê÷¦¿8Ø¦ÇÇ¥.

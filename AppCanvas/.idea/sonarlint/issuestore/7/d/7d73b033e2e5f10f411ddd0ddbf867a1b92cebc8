@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Äì÷ÿÿÿÿÿ8‹Øšš.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’µ–€8ª‰â˜š.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òÚÂ¿8ª‰â˜š.
+J
+java:S1604"(Make this anonymous inner class a lambda(Ìôÿ–ıÿÿÿÿ8‹Øšš.
